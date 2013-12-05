@@ -1,0 +1,11 @@
+{
+  "name": "hurry",
+  "repo": "stagas/hurry",
+  "version": "0.0.1",
+  "license": "MIT",
+  "description": "invokes a function if it's taking too long",
+  "keywords": ["async", "decorate", "flow"],
+  "author": "stagas",
+  "main": "index.js",
+  "scripts": ["index.js"]
+}
